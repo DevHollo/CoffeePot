@@ -1,4 +1,4 @@
-# ☕ CoffeePot
+# ☕ CoffeePot (v0.0.1a1)
 
 CoffeePot is a fun, quirky Python module and server that lets you **brew coffee (and other drinks)** via HTTP, CLI, or directly in Python code. Inspired by the HTCPCP “Hyper Text Coffee Pot Control Protocol,” CoffeePot is perfect for programmers who want a cozy, playful local server.
 
